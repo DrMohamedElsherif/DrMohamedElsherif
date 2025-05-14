@@ -34,11 +34,12 @@ Since this is a programmer's platform, I list only informatics-related skills an
 - SQL (Clinical databases)
 
 ## 🛠️ Technical Stack
-**Languages & Frameworks**  
+**Languages & Bioinformatics Tools**  
 ![R](https://img.shields.io/badge/R-Advanced-1572B6?logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-CC2927?logo=postgresql)
+![Bash](https://img.shields.io/badge/Bash-Beginner-4EAA25?logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Beginner-00599C?logo=c%2B%2B)
 
 **Medical Imaging**  
