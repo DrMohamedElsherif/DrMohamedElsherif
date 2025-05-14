@@ -1,12 +1,10 @@
-## Hi liebe/lieber besucherin/er, I'm Mohamed 👋 
-
-# 👨⚕️ Dr. Mohamed Elsherif | Neurosurgeon & Medical Informatician
+## 👨⚕️ Dr. Mohamed Elsherif | Neurosurgeon & Medical Informatician
 
 **`Healing Through Scalpels and Algorithms`** 🧠⚡💻
 
 ## 🚀 Professional Journey (Key Stations)
 - 🏥 **Neurosurgeon**:
-  - Head Injuries 
+  - Trauma surgery
   - Brain tumor resection (Gliomas, Meningiomas)
   - Peripheral nerve reconstruction
   - Deep brain stimulation 
@@ -63,4 +61,6 @@ I'm particularly interested in:
 [![Email](https://img.shields.io/badge/Yahoo_Mail-6001D2?logo=yahoo&logoColor=white)](mailto:dr_mohamed_elsherif@yahoo.com)
 
 ## 📊 GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[DrMohamedElsherif]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrMohamedElsherif&hide=contribs&count_private=true&show_icons=true&theme=radical)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DrMohamedElsherif&color=blue)](https://github.com/DrMohamedElsherif)
