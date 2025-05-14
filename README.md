@@ -35,8 +35,10 @@
 ## 🛠️ Technical Stack
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-Advanced-orange?logo=openjdk)
 ![R](https://img.shields.io/badge/R-Intermediate-blue?logo=r)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-red?logo=postgresql)
+![C++](https://img.shields.io/badge/C++-Beginner-blue?logo=c%2B%2B&logoColor=white)
 
 **Medical Imaging**  
 ![3D Slicer](https://img.shields.io/badge/3D_Slicer-Expert-lightgrey)
