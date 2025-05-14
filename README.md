@@ -18,6 +18,7 @@
   - Former Neurosurgical Resident @ Tanta University Hospital, Egypt
 
 ## 🔥 Core Informatics Expertise
+Since this is a programmer's platform, I list only informatics-related skills and ignore neurosurgical ones for now. 
 ### Clinical Informatics
 - DICOM/HL7/FHIR standards
 - OMOP Common Data Model
