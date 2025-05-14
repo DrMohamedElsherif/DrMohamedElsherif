@@ -13,7 +13,7 @@
   - MSc Translational Medical Research, University of Heidelberg, Germany
   - Medical Informatics Masters (Current), University of Tübingen, Germany
 - 💼 **Roles**:
-  - Assistant Medical Informatician @ Robert Bosch Krankenhaus, Germany
+  - Assistant Medical Informatician (Current) @ Robert Bosch Krankenhaus, Germany
   - Former Neurosurgical Post-Doc @ Mayo Clinic, USA
   - Former Neurosurgical Resident @ Tanta University Hospital, Egypt
 
