@@ -25,9 +25,10 @@
 ### Neuroinformatics
 - Structural MRI analysis (3D Slicer, FSL)
 - Functional connectivity (fMRI, EEG)
+- EEG signal processing
 
 ### Data Science
-- Python (PyTorch, MONAI)
+- Python (PyTorch, Tensorflow, MONAI)
 - R (Clinical statistics)
 - SQL (Clinical databases)
 
