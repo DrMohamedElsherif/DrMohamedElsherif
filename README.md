@@ -1,31 +1,32 @@
 ## Hi liebe/lieber besucherin/er, I'm Mohamed 👋 
 
-# 👨⚕️ Dr. [Your Full Name] | Neurosurgeon → Medical Informatician
+# 👨⚕️ Dr. Mohamed Elsherif | Neurosurgeon & Medical Informatician
 
 **`Healing Through Scalpels and Algorithms`** 🧠⚡💻
 
-## 🚀 Professional Journey
-- 🏥 **Neurosurgical Specialist**: 
+## 🚀 Professional Journey (Key Stations)
+- 🏥 **Neurosurgeon**:
+  - Head Injuries 
   - Brain tumor resection (Gliomas, Meningiomas)
   - Peripheral nerve reconstruction
-  - Deep brain stimulation programming
-- 🎓 **Education**: 
-  - MSc Translational Medical Research, University of Heidelberg
-  - Medical Informatics Masters (Current), University of Tübingen
+  - Deep brain stimulation 
+- 🎓 **Education**:
+  - MBBCh Medicine and Surgery, University of Tanta, Egypt
+  - MSc Translational Medical Research, University of Heidelberg, Germany
+  - Medical Informatics Masters (Current), University of Tübingen, Germany
 - 💼 **Roles**:
-  - Assistant Medical Informatician @ Robert Bosch Krankenhaus, Stuttgart
-  - Former Neurosurgical Resident @ [Your Hospital], Egypt
+  - Assistant Medical Informatician @ Robert Bosch Krankenhaus, Germany
+  - Former Neurosurgical Post-Doc @ Mayo Clinic, USA
+  - Former Neurosurgical Resident @ Tanta University Hospital, Egypt
 
-## 🔥 Core Expertise
+## 🔥 Core Informatics Expertise
 ### Clinical Informatics
 - DICOM/HL7/FHIR standards
 - OMOP Common Data Model
-- Clinical NLP pipelines
 
 ### Neuroinformatics
 - Structural MRI analysis (3D Slicer, FSL)
 - Functional connectivity (fMRI, EEG)
-- Brain-Computer Interfaces
 
 ### Data Science
 - Python (PyTorch, MONAI)
@@ -44,23 +45,22 @@
 ![ITK-SNAP](https://img.shields.io/badge/ITK--SNAP-Intermediate-green)
 
 **Clinical IT**  
-![FHIR](https://img.shields.io/badge/FHIR-Intermediate-orange)
+![FHIR](https://img.shields.io/badge/FHIR-Beginner-orange)
 ![OpenEHR](https://img.shields.io/badge/OpenEHR-Beginner-yellow)
 
-## ⚡ Unique Perspectives
-- "Performed 300+ brain surgeries before writing my first Python script"
-- "Building clinical databases that speak both doctor and programmer"
-- "My OR experience informs every line of medical code I write"
-- "Teaching neural networks to recognize what took me years to learn"
+## ⚡ Fun Facts
+- "Performed 200+ brain surgeries before writing my first Python script"
+- "Building Shiny Apps that speak both doctor and programmer"
 
 ## 📫 Collaboration Opportunities
 I'm particularly interested in:
 - Neuroimaging analysis pipelines
+- Brain-Computer Interfaces
 - OR-to-EMR automation
-- Clinical decision support systems
+- DataBases
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/[YOUR_PROFILE])
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/drmelsherif/)
+[![Email](https://img.shields.io/badge/Yahoo_Mail-6001D2?logo=yahoo&logoColor=white)](mailto:dr_mohamed_elsherif@yahoo.com)
 
 ## 📊 GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[DrMohamedElsherif]&show_icons=true&theme=radical)
