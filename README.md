@@ -35,11 +35,11 @@ Since this is a programmer's platform, I list only informatics-related skills an
 
 ## 🛠️ Technical Stack
 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-Advanced-orange?logo=openjdk)
-![R](https://img.shields.io/badge/R-Intermediate-blue?logo=r)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-red?logo=postgresql)
-![C++](https://img.shields.io/badge/C++-Beginner-blue?logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-Advanced-1572B6?logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-CC2927?logo=postgresql)
+![C++](https://img.shields.io/badge/C++-Beginner-00599C?logo=c%2B%2B)
 
 **Medical Imaging**  
 ![3D Slicer](https://img.shields.io/badge/3D_Slicer-Expert-lightgrey)
