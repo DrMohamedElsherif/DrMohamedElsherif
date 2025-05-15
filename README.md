@@ -56,7 +56,7 @@ Since this is a programmer's platform, I list only informatics-related skills an
 - "Building Shiny Apps that speak both doctor and programmer"
 
 ## 📫 Collaboration Opportunities
-I'm particularly interested in the following reseearcg areas/topics:
+I'm particularly interested in the following research areas/topics:
 - Computational Neuroimaging analysis pipelines
 - Brain-Computer Interfaces
 - OR-to-EMR automation
