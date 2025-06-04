@@ -11,7 +11,7 @@
 - 🎓 **Education**:
   - MBBCh Medicine and Surgery, University of Tanta, Egypt
   - MSc Translational Medical Research, University of Heidelberg, Germany
-  - Medical Informatics Masters (Current), University of Tübingen, Germany
+  - MSc Medical Informatics (Current), University of Tübingen, Germany
 - 💼 **Roles**:
   - Assistant Medical Informatician (Current) @ Robert Bosch Krankenhaus, Germany
   - Former Neurosurgical Post-Doc @ Mayo Clinic, USA
