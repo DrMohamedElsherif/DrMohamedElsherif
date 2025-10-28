@@ -2,20 +2,22 @@
 
 **`Healing Through Scalpels and Algorithms`** 🧠⚡💻
 
-## 🚀 Professional Journey (Key Stations)
+## 🚀 Professional Journey (Key Stations only)
 - 🏥 **Neurosurgeon**:
   - Trauma surgery
   - Brain tumor resection (Gliomas, Meningiomas)
   - Peripheral nerve reconstruction
   - Deep brain stimulation 
 - 🎓 **Education**:
-  - MBBCh Medicine and Surgery, University of Tanta, Egypt
-  - MSc Translational Medical Research, University of Heidelberg, Germany
   - MSc Medical Informatics (Current), University of Tübingen, Germany
+  - MSc Translational Medical Research, University of Heidelberg, Germany
+  - MBBCh Medicine and Surgery, University of Tanta, Egypt
+  
 - 💼 **Roles**:
-  - Assistant Medical Informatician (Current) @ Robert Bosch Krankenhaus, Germany
-  - Former Neurosurgical Post-Doc @ Mayo Clinic, USA
-  - Former Neurosurgical Resident @ Tanta University Hospital, Egypt
+  - Praktikant and Hiwi (within Master thesis work) @ DKFZ-Heidelberg (Current), Germany
+  - Assistant Medical Informatics (untill 30.11.2025) @ Robert Bosch Krankenhaus, Germany
+  - Former Neurosurgical Research Fellow @ Mayo Clinic, USA
+  - Former Neurosurgical Resident Doctor @ Tanta University Hospital, Egypt
 
 ## 🔥 Core Informatics Expertise
 Since this is a programmer's platform, I list only informatics-related skills and ignore neurosurgical ones for now. 
@@ -24,7 +26,7 @@ Since this is a programmer's platform, I list only informatics-related skills an
 - OMOP Common Data Model
 
 ### Neuroinformatics
-- Structural MRI analysis (3D Slicer, FSL)
+- Structural & Quantitative MRI analysis (3D Slicer, FSL, MITK)
 - Functional connectivity (fMRI, EEG)
 - EEG signal processing
 
@@ -52,14 +54,14 @@ Since this is a programmer's platform, I list only informatics-related skills an
 ![OpenEHR](https://img.shields.io/badge/OpenEHR-Beginner-yellow)
 
 ## ⚡ Fun Facts
-- "Performed 200+ brain surgeries before writing my first Python script"
+- "Performed 150+ brain surgeries before writing my first Python script"
 - "Building Shiny Apps that speak both doctor and programmer"
 
 ## 📫 Collaboration Opportunities
 I'm particularly interested in the following research areas/topics:
 - Computational Neuroimaging analysis pipelines
 - Brain-Computer Interfaces
-- OR-to-EMR automation
+- Operation Room (OR)-to-EMR automation (NLP in medical domain)
 - DataBases for clinics and clinical Research 
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/drmelsherif/)
