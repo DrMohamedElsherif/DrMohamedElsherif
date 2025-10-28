@@ -55,7 +55,7 @@ Since this is a programmer's platform, I list only informatics-related skills an
 
 ## ⚡ Fun Facts
 - "Performed 150+ brain surgeries before writing my first Python script"
-- "Building Shiny Apps that speak both doctor and programmer"
+- "Building Shiny Apps for EDC in clinical setting that speak both doctor and programmer"
 
 ## 📫 Collaboration Opportunities
 I'm particularly interested in the following research areas/topics:
