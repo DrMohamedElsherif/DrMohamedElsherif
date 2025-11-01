@@ -62,7 +62,8 @@ I'm particularly interested in the following research areas/topics:
 - Computational Neuroimaging analysis pipelines
 - Brain-Computer Interfaces
 - Operation Room (OR)-to-EMR automation (NLP in medical domain)
-- DataBases for clinics and clinical Research 
+- Databases for clinics and clinical Research
+- Clinical Decision Support Systems
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/drmelsherif/)
 [![Email](https://img.shields.io/badge/Yahoo_Mail-6001D2?logo=yahoo&logoColor=white)](mailto:dr_mohamed_elsherif@yahoo.com)
