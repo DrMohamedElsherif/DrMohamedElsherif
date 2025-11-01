@@ -54,8 +54,8 @@ Since this is a programmer's platform, I list only informatics-related skills an
 ![OpenEHR](https://img.shields.io/badge/OpenEHR-Beginner-yellow)
 
 ## ⚡ Fun Facts
-- "Performed 150+ brain surgeries before writing my first Python script"
-- "Building Shiny Apps for EDC in clinical setting that speak both doctor and programmer"
+- "Performed 900+ neurosurgical brain, spine and peripheral nerve surgeries before writing my first Python script"
+- "Building Shiny Apps for EDC in clinical setting & AI models that speak both doctor and programmer"
 
 ## 📫 Collaboration Opportunities
 I'm particularly interested in the following research areas/topics:
