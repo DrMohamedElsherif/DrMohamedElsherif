@@ -1,4 +1,4 @@
-## 👨⚕️ Dr. Mohamed Elsherif | Neurosurgeon & Medical Informatician
+## 👨⚕️ Mohamed Elsherif | Neurosurgeon & Medical Informatician
 
 **`Healing Through Scalpels and Algorithms`** 🧠⚡💻
 
