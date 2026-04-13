@@ -14,7 +14,7 @@
   - MBBCh Medicine and Surgery, University of Tanta, Egypt
   
 - 💼 **Roles**:
-  - Praktikant and Hiwi (within Master thesis work) @ DKFZ-Heidelberg (Current), Germany
+  - Graduate Researcher (within Master thesis work) @ DKFZ-Heidelberg (Current), Germany
   - Assistant Medical Informatics (untill 30.11.2025) @ Robert Bosch Krankenhaus, Germany
   - Former Neurosurgical Research Fellow @ Mayo Clinic, USA
   - Former Neurosurgical Resident Doctor @ Tanta University Hospital, Egypt
